@@ -1,0 +1,5 @@
+BUY 40 Painting "Girl on the ball" Picasso 100
+BUY 2 Music "Girl on the ball" David 100
+UPDATE 400 Painting "Girl on the ball" Picasso 1000
+BUY 4 Cartoon MEME ERIC 100
+SELL 2 100
